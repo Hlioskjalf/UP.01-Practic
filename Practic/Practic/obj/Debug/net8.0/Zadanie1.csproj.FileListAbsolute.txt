@@ -1,0 +1,14 @@
+C:\Users\A6M2\Desktop\Practic\Practic\bin\Debug\net8.0\Zadanie1.exe
+C:\Users\A6M2\Desktop\Practic\Practic\bin\Debug\net8.0\Zadanie1.deps.json
+C:\Users\A6M2\Desktop\Practic\Practic\bin\Debug\net8.0\Zadanie1.runtimeconfig.json
+C:\Users\A6M2\Desktop\Practic\Practic\bin\Debug\net8.0\Zadanie1.dll
+C:\Users\A6M2\Desktop\Practic\Practic\bin\Debug\net8.0\Zadanie1.pdb
+C:\Users\A6M2\Desktop\Practic\Practic\obj\Debug\net8.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A6M2\Desktop\Practic\Practic\obj\Debug\net8.0\Zadanie1.AssemblyInfoInputs.cache
+C:\Users\A6M2\Desktop\Practic\Practic\obj\Debug\net8.0\Zadanie1.AssemblyInfo.cs
+C:\Users\A6M2\Desktop\Practic\Practic\obj\Debug\net8.0\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\A6M2\Desktop\Practic\Practic\obj\Debug\net8.0\Zadanie1.dll
+C:\Users\A6M2\Desktop\Practic\Practic\obj\Debug\net8.0\refint\Zadanie1.dll
+C:\Users\A6M2\Desktop\Practic\Practic\obj\Debug\net8.0\Zadanie1.pdb
+C:\Users\A6M2\Desktop\Practic\Practic\obj\Debug\net8.0\Zadanie1.genruntimeconfig.cache
+C:\Users\A6M2\Desktop\Practic\Practic\obj\Debug\net8.0\ref\Zadanie1.dll
