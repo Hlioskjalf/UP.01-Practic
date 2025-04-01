@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\A6M2\\Desktop\\Practic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04132054-037F-44B9-ADEB-3CC218CEFE72}|Zadanie5\\Zadanie5.csproj|c:\\users\\a6m2\\desktop\\practic\\zadanie5\\zadanie5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04132054-037F-44B9-ADEB-3CC218CEFE72}|Zadanie5\\Zadanie5.csproj|solutionrelative:zadanie5\\zadanie5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04132054-037F-44B9-ADEB-3CC218CEFE72}|Zadanie5\\Zadanie5.csproj|c:\\users\\a6m2\\desktop\\practic\\zadanie5\\zadanie5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{04132054-037F-44B9-ADEB-3CC218CEFE72}|Zadanie5\\Zadanie5.csproj|solutionrelative:zadanie5\\zadanie5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FA13481B-1EED-431A-A227-FEABEC77EEB1}|Zadanie4\\Zadanie4.csproj|c:\\users\\a6m2\\desktop\\practic\\zadanie4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA13481B-1EED-431A-A227-FEABEC77EEB1}|Zadanie4\\Zadanie4.csproj|solutionrelative:zadanie4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Zadanie5.cs",
-              "DocumentMoniker": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie5\\Zadanie5.cs",
-              "RelativeDocumentMoniker": "Zadanie5\\Zadanie5.cs",
-              "ToolTip": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie5\\Zadanie5.cs",
-              "RelativeToolTip": "Zadanie5\\Zadanie5.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAcwIUAAAAxAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie4\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie4\\Program.cs",
+              "ToolTip": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie4\\Program.cs",
+              "RelativeToolTip": "Zadanie4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T09:36:17.804Z",
+              "WhenOpened": "2025-04-01T10:09:38.742Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Zadanie5.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie5\\Zadanie5.cs",
-              "RelativeDocumentMoniker": "Zadanie5\\Zadanie5.cs",
-              "ToolTip": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie5\\Zadanie5.cs [Design]",
-              "RelativeToolTip": "Zadanie5\\Zadanie5.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T09:36:11.978Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
