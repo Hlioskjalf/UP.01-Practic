@@ -1,0 +1,10 @@
+C:\Users\A6M2\Desktop\Practic\Zadanie6\obj\Debug\Zadanie6.csproj.AssemblyReference.cache
+C:\Users\A6M2\Desktop\Practic\Zadanie6\obj\Debug\Zadanie6.Properties.Resources.resources
+C:\Users\A6M2\Desktop\Practic\Zadanie6\obj\Debug\Zadanie6.Zadanie6.resources
+C:\Users\A6M2\Desktop\Practic\Zadanie6\obj\Debug\Zadanie6.csproj.GenerateResource.cache
+C:\Users\A6M2\Desktop\Practic\Zadanie6\obj\Debug\Zadanie6.csproj.CoreCompileInputs.cache
+C:\Users\A6M2\Desktop\Practic\Zadanie6\bin\Debug\Zadanie6.exe.config
+C:\Users\A6M2\Desktop\Practic\Zadanie6\bin\Debug\Zadanie6.exe
+C:\Users\A6M2\Desktop\Practic\Zadanie6\bin\Debug\Zadanie6.pdb
+C:\Users\A6M2\Desktop\Practic\Zadanie6\obj\Debug\Zadanie6.exe
+C:\Users\A6M2\Desktop\Practic\Zadanie6\obj\Debug\Zadanie6.pdb
