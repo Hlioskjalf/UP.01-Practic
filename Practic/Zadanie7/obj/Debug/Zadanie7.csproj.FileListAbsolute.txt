@@ -1,0 +1,10 @@
+C:\Users\A6M2\Desktop\Practic\Zadanie7\bin\Debug\Zadanie7.exe.config
+C:\Users\A6M2\Desktop\Practic\Zadanie7\bin\Debug\Zadanie7.exe
+C:\Users\A6M2\Desktop\Practic\Zadanie7\bin\Debug\Zadanie7.pdb
+C:\Users\A6M2\Desktop\Practic\Zadanie7\obj\Debug\Zadanie7.csproj.AssemblyReference.cache
+C:\Users\A6M2\Desktop\Practic\Zadanie7\obj\Debug\Zadanie7.Properties.Resources.resources
+C:\Users\A6M2\Desktop\Practic\Zadanie7\obj\Debug\Zadanie7.Zadanie7.resources
+C:\Users\A6M2\Desktop\Practic\Zadanie7\obj\Debug\Zadanie7.csproj.GenerateResource.cache
+C:\Users\A6M2\Desktop\Practic\Zadanie7\obj\Debug\Zadanie7.csproj.CoreCompileInputs.cache
+C:\Users\A6M2\Desktop\Practic\Zadanie7\obj\Debug\Zadanie7.exe
+C:\Users\A6M2\Desktop\Practic\Zadanie7\obj\Debug\Zadanie7.pdb
