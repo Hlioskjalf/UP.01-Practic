@@ -1,70 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\A6M2\\Desktop\\Practic\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0C2791-09D9-4920-9C2C-8E76506DD47E}|Zadanie7\\Zadanie7.csproj|c:\\users\\a6m2\\desktop\\practic\\zadanie7\\zadanie7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0C2791-09D9-4920-9C2C-8E76506DD47E}|Zadanie7\\Zadanie7.csproj|solutionrelative:zadanie7\\zadanie7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0C2791-09D9-4920-9C2C-8E76506DD47E}|Zadanie7\\Zadanie7.csproj|c:\\users\\a6m2\\desktop\\practic\\zadanie7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0C2791-09D9-4920-9C2C-8E76506DD47E}|Zadanie7\\Zadanie7.csproj|solutionrelative:zadanie7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0C2791-09D9-4920-9C2C-8E76506DD47E}|Zadanie7\\Zadanie7.csproj|C:\\Users\\A6M2\\Desktop\\Practic\\zadanie7\\zadanie7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DF0C2791-09D9-4920-9C2C-8E76506DD47E}|Zadanie7\\Zadanie7.csproj|solutionrelative:zadanie7\\zadanie7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie7\\Program.cs",
-              "RelativeDocumentMoniker": "Zadanie7\\Program.cs",
-              "ToolTip": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie7\\Program.cs",
-              "RelativeToolTip": "Zadanie7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:44:25.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Zadanie7.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie7\\Zadanie7.cs",
-              "RelativeDocumentMoniker": "Zadanie7\\Zadanie7.cs",
-              "ToolTip": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie7\\Zadanie7.cs [Design]",
-              "RelativeToolTip": "Zadanie7\\Zadanie7.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:41:21.949Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Zadanie7.cs",
-              "DocumentMoniker": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie7\\Zadanie7.cs",
-              "RelativeDocumentMoniker": "Zadanie7\\Zadanie7.cs",
-              "ToolTip": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie7\\Zadanie7.cs",
-              "RelativeToolTip": "Zadanie7\\Zadanie7.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAswOgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:08:42.102Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
