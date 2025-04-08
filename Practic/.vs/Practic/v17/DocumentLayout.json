@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\A6M2\\Desktop\\Practic\\",
-  "Documents": [],
+  "WorkspaceRootPath": "P:\\Work\\Files\\Git\\UP.01-Practic\\Practic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32FA982C-BD20-46BD-B12E-8558991CE0DF}|Zadanie9\\Zadanie9.csproj|p:\\work\\files\\git\\up.01-practic\\practic\\zadanie9\\ovtsin_zadanie9.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{32FA982C-BD20-46BD-B12E-8558991CE0DF}|Zadanie9\\Zadanie9.csproj|solutionrelative:zadanie9\\ovtsin_zadanie9.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ovtsin_Zadanie9.sql",
+              "DocumentMoniker": "P:\\Work\\Files\\Git\\UP.01-Practic\\Practic\\Zadanie9\\Ovtsin_Zadanie9.sql",
+              "RelativeDocumentMoniker": "Zadanie9\\Ovtsin_Zadanie9.sql",
+              "ToolTip": "P:\\Work\\Files\\Git\\UP.01-Practic\\Practic\\Zadanie9\\Ovtsin_Zadanie9.sql",
+              "RelativeToolTip": "Zadanie9\\Ovtsin_Zadanie9.sql",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-08T13:24:53.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

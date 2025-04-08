@@ -1,0 +1,10 @@
+C:\Users\A6M2\Desktop\Practic\Zadanie9\obj\Debug\Zadanie9.csproj.AssemblyReference.cache
+C:\Users\A6M2\Desktop\Practic\Zadanie9\obj\Debug\Shapkin_Task_9.Forms.fmLogin.resources
+C:\Users\A6M2\Desktop\Practic\Zadanie9\obj\Debug\Zadanie9.Properties.Resources.resources
+C:\Users\A6M2\Desktop\Practic\Zadanie9\obj\Debug\Zadanie9.csproj.GenerateResource.cache
+C:\Users\A6M2\Desktop\Practic\Zadanie9\obj\Debug\Zadanie9.csproj.CoreCompileInputs.cache
+C:\Users\A6M2\Desktop\Practic\Zadanie9\obj\Debug\Zadanie9.Forms.fmLogin.resources
+C:\Users\A6M2\Desktop\Practic\Zadanie9\obj\Debug\Zadanie9.Forms.GoodDetailsForm.resources
+C:\Users\A6M2\Desktop\Practic\Zadanie9\obj\Debug\Zadanie9.Forms.ImageForm.resources
+C:\Users\A6M2\Desktop\Practic\Zadanie9\obj\Debug\Shapkin_Task_9.Forms.MainWindow.resources
+C:\Users\A6M2\Desktop\Practic\Zadanie9\obj\Debug\Zadanie9.Forms.MainWindow.resources
