@@ -97,9 +97,11 @@ namespace Zadanie7
 
         private void ShapedForm1_HelpButtonClicked(object sender, CancelEventArgs e)
         {
-            if (MessageBox.Show("Goal: chickens must occupy the top 3x3 square, and the foxes must eat as many chickens as the chickens need to win." +
+            if (MessageBox.Show("Goal: chickens must occupy the top 3x3 square, " +
+                "and the foxes must eat as many chickens as the chickens need to win." +
                 "\nChickens moves first. Foxes move after chickens and must eat them if there'r possibility. " +
-                "\n\nDeselect - spacebar", "Foxes and chickens", MessageBoxButtons.OK, MessageBoxIcon.Information) == DialogResult.OK)
+                "\n\nDeselect - spacebar", "Foxes and chickens", 
+                MessageBoxButtons.OK, MessageBoxIcon.Information) == DialogResult.OK)
                 e.Cancel = true;
         }
 
@@ -127,22 +129,9 @@ namespace Zadanie7
             {
                 if (_gameBoardFacade.GetCellType(cellLocation) == CellType.Chicken)
                 {
-                    if (_gameBoardFacade.CanChickenMove(cellLocation))
-                    {
-                        _selectedPiece = cellLocation;
-                        _selectedPictureBox = clickedCell;
-                        HighlightSelectedPiece();
-                    }
-                    else
-                    {
-                        MessageBox.Show("No moves available.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        _selectedPiece = Point.Empty;
-                        _selectedPictureBox = null; 
-                    }
-                }
-                else
-                {
-                    MessageBox.Show("Choose a chicken.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    _selectedPiece = cellLocation;
+                    _selectedPictureBox = clickedCell;
+                    HighlightSelectedPiece();
                 }
             }
             else
@@ -152,12 +141,13 @@ namespace Zadanie7
                     _gameBoardFacade.MoveChicken(_selectedPiece, cellLocation);
                     ClearHighlighting();
                     _selectedPiece = Point.Empty;
-                    _selectedPictureBox = null; 
+                    _selectedPictureBox = null;
                     MakeFoxMove();
                 }
                 else
                 {
-                    MessageBox.Show("Inadmissible movement.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("No moves available.", "Error", 
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             UpdateUi();
@@ -175,7 +165,8 @@ namespace Zadanie7
                     HighlightSelectedPiece();
                 }
                 else
-                    MessageBox.Show("Select a fox.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Select a fox.", "Error", 
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
@@ -190,7 +181,8 @@ namespace Zadanie7
                 }
                 else
                 {
-                    MessageBox.Show("Inadmissible movement.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Inadmissible movement.", 
+                        "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             UpdateUi();
@@ -213,13 +205,14 @@ namespace Zadanie7
 
                 if (!foxMoved && _gameBoardFacade.CurrentPlayer == PlayerType.Fox)
                 {
-                    MessageBox.Show("Winner winner chicken dinner!.", "Game over", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Winner winner chicken dinner!.", 
+                        "Game over", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     ResetGame();
                     return;
                 }
-
             }
         }
+
 
         private void UpdateUi()
         {
@@ -232,9 +225,9 @@ namespace Zadanie7
                     CellType cellType = _gameBoardFacade.GetCellType(new Point(col, row));
 
                     if (cellType == CellType.Chicken)
-                        cell.Image = Image.FromFile("chicken.png");
+                        cell.Image = Image.FromFile("C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie7\\bin\\Debug\\chicken.png");
                     else if (cellType == CellType.Fox)
-                        cell.Image = Image.FromFile("fox.png");
+                        cell.Image = Image.FromFile("C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie7\\bin\\Debug\\fox.png");
                     else
                         cell.Image = null;
                 }
@@ -248,25 +241,29 @@ namespace Zadanie7
         {
             if (_gameBoardFacade.ChickenCount <= 8)
             {
-                MessageBox.Show("Foxes won! Chickens don't have space.", "Game over", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Foxes won! Chickens don't have space.", "Game over", 
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
                 ResetGame();
                 return;
             }
             if (_gameBoardFacade.CheckChickenWin())
             {
-                MessageBox.Show("Chickens won! They filled top square.", "Game over", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Chickens won! They filled top square.", "Game over", 
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
                 ResetGame();
                 return;
             }
             if (_gameBoardFacade.CurrentPlayer == PlayerType.Chicken && !_gameBoardFacade.CanChickensMove())
             {
-                MessageBox.Show("Foxes won! Chickens can't move it move it.", "Game over", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Foxes won! Chickens can't move it move it.", "Game over", 
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
                 ResetGame();
                 return;
             }
             if (_gameBoardFacade.CurrentPlayer == PlayerType.Fox && !_gameBoardFacade.CanFoxesMove())
             {
-                MessageBox.Show("Chickens won! Foxes can't move it move it.", "Game over", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Chickens won! Foxes can't move it move it.", "Game over", 
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
                 ResetGame();
                 return;
             }

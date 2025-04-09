@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "P:\\Work\\Files\\Git\\UP.01-Practic\\Practic\\",
+  "WorkspaceRootPath": "C:\\Users\\A6M2\\Desktop\\Practic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32FA982C-BD20-46BD-B12E-8558991CE0DF}|Zadanie9\\Zadanie9.csproj|p:\\work\\files\\git\\up.01-practic\\practic\\zadanie9\\ovtsin_zadanie9.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{32FA982C-BD20-46BD-B12E-8558991CE0DF}|Zadanie9\\Zadanie9.csproj|solutionrelative:zadanie9\\ovtsin_zadanie9.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{DF0C2791-09D9-4920-9C2C-8E76506DD47E}|Zadanie7\\Zadanie7.csproj|c:\\users\\a6m2\\desktop\\practic\\zadanie7\\zadanie7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C2791-09D9-4920-9C2C-8E76506DD47E}|Zadanie7\\Zadanie7.csproj|solutionrelative:zadanie7\\zadanie7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ovtsin_Zadanie9.sql",
-              "DocumentMoniker": "P:\\Work\\Files\\Git\\UP.01-Practic\\Practic\\Zadanie9\\Ovtsin_Zadanie9.sql",
-              "RelativeDocumentMoniker": "Zadanie9\\Ovtsin_Zadanie9.sql",
-              "ToolTip": "P:\\Work\\Files\\Git\\UP.01-Practic\\Practic\\Zadanie9\\Ovtsin_Zadanie9.sql",
-              "RelativeToolTip": "Zadanie9\\Ovtsin_Zadanie9.sql",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-08T13:24:53.651Z",
+              "Title": "Zadanie7.cs",
+              "DocumentMoniker": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie7\\Zadanie7.cs",
+              "RelativeDocumentMoniker": "Zadanie7\\Zadanie7.cs",
+              "ToolTip": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie7\\Zadanie7.cs",
+              "RelativeToolTip": "Zadanie7\\Zadanie7.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAUwCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:43:06.028Z",
               "EditorCaption": ""
             }
           ]

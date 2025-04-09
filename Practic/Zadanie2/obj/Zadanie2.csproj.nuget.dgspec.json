@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Work\\Files\\Git\\UP.01-Practic\\Practic\\Zadanie2\\Zadanie2.csproj": {}
+    "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie2\\Zadanie2.csproj": {}
   },
   "projects": {
-    "P:\\Work\\Files\\Git\\UP.01-Practic\\Practic\\Zadanie2\\Zadanie2.csproj": {
+    "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie2\\Zadanie2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Work\\Files\\Git\\UP.01-Practic\\Practic\\Zadanie2\\Zadanie2.csproj",
+        "projectUniqueName": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie2\\Zadanie2.csproj",
         "projectName": "Zadanie2",
-        "projectPath": "P:\\Work\\Files\\Git\\UP.01-Practic\\Practic\\Zadanie2\\Zadanie2.csproj",
+        "projectPath": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie2\\Zadanie2.csproj",
         "packagesPath": "C:\\Users\\A6M2\\.nuget\\packages\\",
-        "outputPath": "P:\\Work\\Files\\Git\\UP.01-Practic\\Practic\\Zadanie2\\obj\\",
+        "outputPath": "C:\\Users\\A6M2\\Desktop\\Practic\\Zadanie2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
